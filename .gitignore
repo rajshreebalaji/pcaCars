@@ -34,3 +34,26 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-v100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.Rproj.user
+pcaCars.Rproj
+
+# R related files that don't need version control
+.Rproj.uder
+pcaCars.Rproj
+.Rhistory
